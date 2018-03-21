@@ -1,0 +1,36 @@
+names = ['Michael','Bob','Tracy']
+print(names[1])
+
+d={'Michael' :95, 'Bob':75, 'Tracy':85}
+
+print(d['Bob'])
+
+d['Tracy']=66
+print(d['Tracy'])
+
+print('Tomas' in d)
+
+print(d.get('Tomas',-1))
+
+d.pop('Bob')
+print(d)
+
+a=['c', 'b' ,'a']
+a.sort()
+print(a)
+
+a='abc'
+b=a.replace('a','A') #repalce:Create a new string then return
+print("b=",b)
+print("a=",a)
+
+print(abs(-22))
+
+print(max(0,1,-5,8))
+
+n1 = 255
+n2 = 1000
+
+print(hex(n1))
+
+print(hex(n2))
