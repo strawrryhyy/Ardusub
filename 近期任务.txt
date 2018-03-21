@@ -1,0 +1,7 @@
+Ardusub 基础性的东西讲述
+
+Ardusub PID控制部分的了解以及与MPC算法的结合
+github使用
+
+内燃机的了解。
+ADRC的 讲解。
